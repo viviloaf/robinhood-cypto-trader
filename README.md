@@ -1,4 +1,4 @@
-# Robinhood Crpytocurrency Trader
+# Robinhood Cryptocurrency Trader
 
 #### This project uses the Robinhood Python API and the Robinhood Crypto:
 
