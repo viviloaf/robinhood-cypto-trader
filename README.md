@@ -6,6 +6,8 @@ https://github.com/robinhood-unofficial/pyrh
 
 https://github.com/josephjaspers/Robinhood
 
+I modified them to work for this project
+
 Currently at v0.1 as a Proof of concept
 
 If you would like to use it, clone and change the trader to your Robinhood Username and account.
